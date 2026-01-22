@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "lubelinkpro-filter-api",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "8fdcd647-06d3-4734-889d-87976cf8a338",
+			"database_name": "Lubelinkpro"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
